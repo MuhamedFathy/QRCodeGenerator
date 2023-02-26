@@ -3,6 +3,7 @@
 # Privacy Policy:
 
 - This app doesn't take any data or informations from you.
+- Any data like Email address, Phone number and Address is used within the app to generate the VCard only and nothing else.
 
 # Terms of Service:
 
